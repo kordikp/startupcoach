@@ -189,41 +189,31 @@ _Sources:_ [[28]](https://www.paloaltonetworks.com/company/press/2025/palo-alto-
 75. [prompt.security](https://prompt.security/press/prompt-security-raises-18m-series-a-to-accelerate-its-mission-to-secure-genai-in-enterprises)
 76. [calypsoai.com](https://calypsoai.com/news/calypsoai-raises-23-million/)
 
-## 🤝 Recommended contacts  ·  pick up to 5, we'll arrange a warm intro
+## 🤝 Recommended contacts
 
-### Experts
-- **Ondřej Vaněk** (mentor, ✓ verified) — Founder & CEO of Blindspot.ai (applied AI/ML — anomaly detection); PhD in multi-agent systems & security games from CTU.
-  - [blindspot.ai](https://blindspot.ai) · [linkedin.com](https://www.linkedin.com/in/ondrejvanek/)
-- **Michal Pěchouček** (mentor, ✓ verified) — Cybersecurity + AI expertise (ex-Avast/Gen Digital CTO, founder of Artificial Intelligence Center at CTU Prague); angel investor in AI startups.
-  - [cz.linkedin.com](https://cz.linkedin.com/in/pechoucek) · [aic.fel.cvut.cz](https://www.aic.fel.cvut.cz/)
+_Intros are **earned** — you unlock contacts as your venture clears each stage, so we only connect you when you're ready. Feedback above is always free._
+
+### ✅ Available now
 - **Kamil Malinka** (academia, ✓ verified) — Associate Professor and Head of IT Security Research Group (Security@FIT) at FIT VUT Brno; active in LLM security research (Red Hat partnership on manipulation detection), deepfake/biometric security, and formal security verification.
   - [fit.vut.cz](https://www.fit.vut.cz/research/group/security@fit/.en) · [linkedin.com](https://www.linkedin.com/in/kamil-malinka-098b302/)
-- **Martin Rehák** (mentor, ✓ verified) — Founder & CEO of Resistant AI (Prague), AI-powered fraud & financial crime detection platform; previously founded Cognitive Security (acquired by Cisco 2013).
-  - [resistant.ai](https://www.resistant.ai) · [cnaip.cz](https://www.cnaip.cz/cs/entity/resistant-ai)
-- **Ondřej Vlček** (mentor, ✓ verified) — CEO & Founder of Aisle, an AI-native cybersecurity platform for vulnerability detection and remediation; ex-CEO Avast/Gen Digital; deep expertise in adversarial AI systems and applied vulnerability research
-  - [linkedin.com](https://www.linkedin.com/in/ondrejvlcek/) · [aisle.com](https://aisle.com/) · [securityweek.com](https://www.securityweek.com/aisle-emerges-from-stealth-with-ai-based-reasoning-system-that-remediates-vulnerabilities-on-the-fly/)
-- **Eduard Kučera** (angel, ✓ verified) — Co-founder Avast; Partner @ Presto Ventures investing in deep tech & AI/ML startups with hands-on mentoring
-  - [prestoventures.com](https://www.prestoventures.com/team/eduard-kucera) · [en.wikipedia.org](https://en.wikipedia.org/wiki/Eduard_Ku%C4%8Dera)
 - **Miroslav Bureš** (academia, ✓ verified) — Head of STILL lab (System Testing IntelLigent Lab), Associate Professor at CTU FEE — leading research in automated model-based testing, formal verification, and safety-critical system reliability.
   - [fel.cvut.cz](https://fel.cvut.cz/en/faculty/people/939-miroslav-bures) · [linkedin.com](https://www.linkedin.com/in/miroslavbures/)
 - **Tomáš Vojnar** (academia, ✓ verified) — Professor and head of VeriFIT automated analysis & formal verification group at Brno University of Technology; 20+ years in program verification, security testing, and vulnerability detection.
   - [fit.vut.cz](https://www.fit.vut.cz/research/group/verifit/.en) · [vut.cz](https://www.vut.cz/en/people/tomas-vojnar-2491)
-- **Jaan Tallinn** (angel, ✓ verified) — Co-founder Skype/Kazaa; leading AI-safety angel investor (CSER, FLI, $150M+ lifetime giving); board observer Anthropic; UN AI Advisory Body
-  - [futureoflife.org](https://futureoflife.org/person/jaan-tallinn/) · [en.wikipedia.org](https://en.wikipedia.org/wiki/Jaan_Tallinn) · [time.com](https://time.com/collection/time100-philanthropy/2026/jaan-tallinn/)
 
-### Organizations & partners
-- **Aisle** (company, ✓ verified) — AI-native cybersecurity startup automating vulnerability detection and remediation in enterprise software environments using ML-powered platform acceleration.
-  - [czechtradeoffices.com](https://www.czechtradeoffices.com/us/news/czech-millionaire-ondrej-vlcek-launches-new-global-cybersecurity-venture-aisle) · [cz.linkedin.com](https://cz.linkedin.com/in/ondrejvlcek)
-- **Resistant AI** (company, ✓ verified) — Prague-based AI fraud detection and financial crime prevention company ($67.9M funded) with enterprise security platform and EU regulatory expertise.
-  - [resistant.ai](https://www.resistant.ai)
-- **Blindspot AI** (company, ✓ verified) — Prague-based applied-AI security company specializing in anomaly detection, fraud detection, and video analytics for enterprise clients; design partner for understanding production AI security and regulatory compliance integration.
-  - [blindspot.ai](https://blindspot.ai)
-- **Air Street Capital** (venture, ✓ verified) — AI-first VC (Nathan Benaich) with $232M Fund III investing in ai, deeptech, and defense at seed/Series A stage — ideal fundraising partner for AI/LLM security startup.
-  - [airstreet.com](https://www.airstreet.com)
-- **Conviction** (venture, ✓ verified) — AI-native VC fund ($230M) led by Sarah Guo, investing in AI agents and LLM infrastructure with deep portfolio expertise
-  - [conviction.com](https://www.conviction.com/)
-- **Tensor Ventures** (venture, ✓ verified) — Czech deeptech VC fund with explicit cybersecurity focus, €50M Fund II, and Pavel Kordík (FIT CTU AI advisor) providing technical evaluation capacity for LLM security platforms.
-  - [tensor.ventures](https://tensor.ventures/) · [thequantuminsister.com](https://thequantuminsister.com/2024/10/14/tensor-ventures-announces-e50-million-deep-tech-fund/)
+### 🔓 Earn introductions — unlock by progressing your venture
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently partial).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently partial).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently partial).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently partial).
+- 🔒 **Investor / high-profile** (angel) — Reach Value Prop & Business Model (currently unknown).
+- 🔒 **Investor / high-profile** (angel) — Reach Value Prop & Business Model (currently unknown).
+- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently partial).
+- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently partial).
+- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently partial).
+- 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
+- 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
+- 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
 
 ---
 _StartupCoach — an AI mentor for founders, built at **FIT CTU** (Czech Technical University), operated by **Pavel Kordík**._
