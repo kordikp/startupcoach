@@ -198,12 +198,6 @@ _Intros are **earned** — you unlock contacts as your venture clears each stage
   - [fit.vut.cz](https://www.fit.vut.cz/research/group/security@fit/.en) · [linkedin.com](https://www.linkedin.com/in/kamil-malinka-098b302/)
 - **Miroslav Bureš** (academia, ✓ verified) — Head of STILL lab (System Testing IntelLigent Lab), Associate Professor at CTU FEE — leading research in automated model-based testing, formal verification, and safety-critical system reliability.
   - [fel.cvut.cz](https://fel.cvut.cz/en/faculty/people/939-miroslav-bures) · [linkedin.com](https://www.linkedin.com/in/miroslavbures/)
-- **Tomáš Vojnar** (academia, ✓ verified) — Professor of formal verification & automated program analysis; head of VeriFIT (VUT Brno), now also co-leading AVELAB at FI MU. Works on software safety / functional correctness — NOT AI/LLM security — but a rigorous voice on what agent tool-use boundaries can be formally guarant
-  - [fit.vut.cz](https://www.fit.vut.cz/research/group/verifit/.en) · [vut.cz](https://www.vut.cz/en/people/tomas-vojnar-2491)
-- **Petr Švenda** (academia, ✓ verified) — Associate Professor at CRoCS (Centre for Research on Cryptography and Security), FI MU Brno — hands-on system security, smartcards, side-channels & applied cryptography. Adjacent to AI/LLM security but a strong node in the CZ security-research community (referred by Tomáš Vojnar)
-  - [crocs.fi.muni.cz](https://crocs.fi.muni.cz/) · [scholar.google.com](https://scholar.google.com/citations?user=sAA8_ysAAAAJ&hl=en)
-- **Pavel Čeleda** (academia, ✓ verified) — Professor at FI MU Brno; co-founder & head of the Cybersecurity Laboratory (CSIRT-MU spin-off, KYPO cyber range). Network security, security testing/red-teaming methodology & cybersecurity training — closest MU group to Ondřej's security-testing angle (referred by Tomáš Vojnar).
-  - [cybersec.fi.muni.cz](https://cybersec.fi.muni.cz/about-us) · [muni.cz](https://www.muni.cz/en/people/206086-pavel-celeda)
 
 ### 🔓 Earn introductions — unlock by progressing your venture
 - 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently done).
