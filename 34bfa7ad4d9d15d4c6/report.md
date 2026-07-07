@@ -206,15 +206,15 @@ _Intros are **earned** — you unlock contacts as your venture clears each stage
   - [cybersec.fi.muni.cz](https://cybersec.fi.muni.cz/about-us) · [muni.cz](https://www.muni.cz/en/people/206086-pavel-celeda)
 
 ### 🔓 Earn introductions — unlock by progressing your venture
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently partial).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently partial).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently partial).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently partial).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently done).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently done).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently done).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently done).
 - 🔒 **Investor / high-profile** (angel) — Reach Value Prop & Business Model (currently unknown).
 - 🔒 **Investor / high-profile** (angel) — Reach Value Prop & Business Model (currently unknown).
-- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently partial).
-- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently partial).
-- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently partial).
+- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently done).
+- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently done).
+- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently done).
 - 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
 - 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
 - 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
