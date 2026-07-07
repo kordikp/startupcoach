@@ -198,6 +198,10 @@ _Intros are **earned** — you unlock contacts as your venture clears each stage
   - [fit.vut.cz](https://www.fit.vut.cz/research/group/security@fit/.en) · [linkedin.com](https://www.linkedin.com/in/kamil-malinka-098b302/)
 - **Miroslav Bureš** (academia, ✓ verified) — Head of STILL lab (System Testing IntelLigent Lab), Associate Professor at CTU FEE — leading research in automated model-based testing, formal verification, and safety-critical system reliability.
   - [fel.cvut.cz](https://fel.cvut.cz/en/faculty/people/939-miroslav-bures) · [linkedin.com](https://www.linkedin.com/in/miroslavbures/)
+- **Petr Švenda** (academia, ✓ verified) — Associate Professor at CRoCS (Centre for Research on Cryptography and Security), FI MU Brno — hands-on system security, smartcards, side-channels & applied cryptography. Strong node in the CZ security-research community.
+  - [crocs.fi.muni.cz](https://crocs.fi.muni.cz/) · [scholar.google.com](https://scholar.google.com/citations?user=sAA8_ysAAAAJ&hl=en)
+- **Pavel Čeleda** (academia, ✓ verified) — Professor at FI MU Brno; co-founder & head of the Cybersecurity Laboratory (CSIRT-MU spin-off, KYPO cyber range). Network security, security testing/red-teaming methodology & cybersecurity training — closest MU group to Ondřej's security-testing angle.
+  - [cybersec.fi.muni.cz](https://cybersec.fi.muni.cz/about-us) · [muni.cz](https://www.muni.cz/en/people/206086-pavel-celeda)
 
 ### 🔓 Earn introductions — unlock by progressing your venture
 - 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently done).
