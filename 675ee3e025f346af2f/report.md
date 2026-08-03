@@ -14,18 +14,14 @@
 _Intros are **earned** — you unlock contacts as your venture clears each stage, so we only connect you when you're ready. Feedback above is always free._
 
 ### ✅ Available now
-- **Lukáš Sekanina — Evolvable Hardware (EHW@FIT)** (academia, ✓ verified) — Lukáš Sekanina is a Full Professor at Faculty of Information Technology, Brno University of Technology, leading the EvoAI Hardware Group with over 150 publications and ~6,280 citations. His research focuses on evolutionary design, evolvable hardware, approximate computing, and ge
-  - [ehw.fit.vutbr.cz](https://ehw.fit.vutbr.cz/) · [scholar.google.com](https://scholar.google.com/citations?user=-fLMT2cAAAAJ&hl=en) · [fit.vut.cz](https://www.fit.vut.cz/person/sekanina/.en) · [cnaip.cz](https://www.cnaip.cz/cs/entity/evolvable-hardware-ehwfit)
-- **Miroslav Bureš — System Testing IntelLigent Lab (STILL)** (academia, ✓ verified) — Miroslav Bureš is Full Professor and head of System Testing IntelLigent Lab (STILL) at Czech Technical University in Prague, specializing in model-based testing, test automation, and IoT systems testing. The lab conducts active research with publications in top-tier venues (IEEE,
-  - [still.felk.cvut.cz](http://still.felk.cvut.cz/) · [still.felk.cvut.cz](http://still.felk.cvut.cz/bures/) · [scholar.google.com](https://scholar.google.com/citations?user=no6LeXgAAAAJ) · [orcid.org](https://orcid.org/0000-0002-2994-7826)
-- **Robert Babuška — Machine Learning** (academia, ✓ verified) — Robert Babuška is a Professor at both Delft University of Technology and Czech Technical University Prague, specializing in reinforcement learning, deep learning, and robotics. With over 31,000 citations and an h-index of 79, he is a highly influential researcher in machine learn
-  - [scholar.google.com](https://scholar.google.com/citations?user=0orN2FUAAAAJ&hl=en) · [cnaip.cz](https://www.cnaip.cz/cs/entity/machine-learning) · [tudelft.nl](https://www.tudelft.nl/) · [cvut.cz](https://www.cvut.cz/en)
-- **Martin Střelec — Lab for Advanced Power Systems (LAPS)** (academia, ✓ verified) — Martin Střelec is a Senior Researcher at NTIS (New Technologies for the Information Society) at the University of West Bohemia and leads the Lab for Advanced Power Systems (LAPS). His research focuses on advanced technologies for modern energy systems, including machine learning 
-  - [scholar.google.com](https://scholar.google.com/citations?hl=en&user=osIPAH4AAAAJ) · [ntis.zcu.cz](https://www.ntis.zcu.cz/en/Research/Monitoring-and-diagnostic-systems/Laboratory-for-advanced-power-systems/index.html) · [ntis.zcu.cz](https://www.ntis.zcu.cz/en/Research/Teams/Advanced-power-systems/index.html) · [linkedin.com](https://www.linkedin.com/in/martinstrelec/)
-- **Marek Miltner — Laboratory of Intelligent Mobility and Energy Systems for Sustainability (LIMESS)** (academia, ✓ verified) — LIMESS (Laboratory of Intelligent Mobility and Energy Systems for Sustainability) is a research lab established in September 2024 at Czech Technical University's Faculty of Electrical Engineering, focusing on AI optimization of energy systems and vehicle-to-grid integration. Mare
-  - [fel.cvut.cz](https://fel.cvut.cz/en/research-groups/limess) · [arxiv.org](https://arxiv.org/abs/2412.10531) · [scholar.google.com](https://scholar.google.com/citations?user=-kMgwYwAAAAJ&hl=en) · [cnaip.cz](https://www.cnaip.cz/cs/entity/laboratory-of-intelligent-mobility-and-energy-systems-for-sustainability-limess)
-- **Martin Saska — Multi-Robot Systems Group (MRS)** (academia, ✓ verified) — Martin Saska leads the Multi-Robot Systems (MRS) Group at Czech Technical University in Prague, conducting cutting-edge research in autonomous aerial vehicles, swarm robotics, and multi-robot coordination for demanding real-world environments including GPS-denied settings. The gr
-  - [mrs.fel.cvut.cz](https://mrs.fel.cvut.cz) · [scholar.google.com](https://scholar.google.com/citations?user=5PBYoTsAAAAJ&hl=en) · [cnaip.cz](https://www.cnaip.cz/cs/entity/multi-robot-systems-group-mrs) · [github.com](https://github.com/ctu-mrs/mrs_uav_system)
+- **Ricardo Rocha** (academia, ✓ verified) — Platform Infrastructure Lead at CERN and CNCF Technical Oversight Committee member; runs CERN's on-prem GPU fleet and its Kubeflow-based ML platform. The archetypal customer who owns the hardware and cannot use a vendor cloud — best first call to pressure-test the wedge.
+  - [kccnceu2025.sched.com](https://kccnceu2025.sched.com/speaker/ricardorocha) · [indico.cern.ch](https://indico.cern.ch/event/1253881/contributions/5283667/attachments/2608791/4507087/Kubeflow-IT-ML-Infra-2023-03-09.pdf) · [ricardorocha.io](https://ricardorocha.io/)
+- **NVIDIA Inception** (network, ✓ verified) — Free, equity-free program for AI startups under 10 years old: SDK access, preferred hardware pricing, cloud credits and VC intros via Inception Capital Connect. Self-serve application — directly useful for a GPU-adjacent product.
+  - [nvidia.com](https://www.nvidia.com/en-us/startups/)
+- **EuroHPC AI Factories** (network, ✓ verified) — EU network of 19 AI Factories and 13 Antennas — Czechia hosts one — giving startups and SMEs prioritised access to EuroHPC GPU supercomputers plus support services. Compute access and a natural source of design-partner deal flow.
+  - [digital-strategy.ec.europa.eu](https://digital-strategy.ec.europa.eu/en/policies/ai-factories) · [eurohpc-ju.europa.eu](https://eurohpc-ju.europa.eu/)
+- **EIC Accelerator (European Innovation Council)** (network, ✓ verified) — EU deeptech instrument: grant up to €2.5M over 24 months plus €1–10M direct equity, for TRL 6–8 single SMEs. Open application — the largest non-dilutive route for an EU infrastructure startup.
+  - [eic.ec.europa.eu](https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en)
 
 ### 🔓 Earn introductions — unlock by progressing your venture
 - 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
@@ -33,17 +29,19 @@ _Intros are **earned** — you unlock contacts as your venture clears each stage
 - 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
 - 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
 - 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
-- 🔒 **Investor / high-profile** (angel) — Reach Value Prop & Business Model (currently unknown).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
+- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
 - 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently unknown).
 - 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently unknown).
-- 🔒 **Investor / high-profile** (angel) — Reach Value Prop & Business Model (currently unknown).
+- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently unknown).
+- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently unknown).
+- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently unknown).
 - 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
-- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently unknown).
 - 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
-- 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
-- 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
-- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently unknown).
-- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently unknown).
 
 ---
 _StartupCoach — an AI mentor for founders, built at **FIT CTU** (Czech Technical University), operated by **Pavel Kordík**._
