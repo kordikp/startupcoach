@@ -232,6 +232,28 @@ _Intros are **earned** — you unlock contacts as your venture clears each stage
 ### ✅ Available now
 - **Ricardo Rocha** (academia, ✓ verified) — Platform Infrastructure Lead at CERN and CNCF Technical Oversight Committee member; runs CERN's on-prem GPU fleet and its Kubeflow-based ML platform. The archetypal customer who owns the hardware and cannot use a vendor cloud — best first call to pressure-test the wedge.
   - [kccnceu2025.sched.com](https://kccnceu2025.sched.com/speaker/ricardorocha) · [indico.cern.ch](https://indico.cern.ch/event/1253881/contributions/5283667/attachments/2608791/4507087/Kubeflow-IT-ML-Infra-2023-03-09.pdf) · [ricardorocha.io](https://ricardorocha.io/)
+- **Victor Pereboom** (mentor, ✓ verified · ✓ intro available) — CTO & co-founder of UbiOps (The Hague) — the closest European analogue to MolaBoard: model serving, orchestration and training that runs on the customer's own cloud account or on-prem GPU hardware. Deployed OSS models inside the Dutch immigration service's own datacentre.
+  - [ubiops.com](https://ubiops.com/about-us/) · [youtube.com](https://www.youtube.com/watch?v=KcxaZNBQb0c)
+- **Eero Laaksonen** (mentor, ✓ verified · ✓ intro available) — Founder of Valohai (Finland), which pioneered the 'MLOps control plane over YOUR compute' model — tracking, versioning and orchestration on the customer's own cloud or on-prem cluster. The sharpest precedent for BYO-compute positioning, and its limits.
+  - [valohai.com](https://valohai.com/company/) · [valohai.com](https://valohai.com/blog/author/eero-laaksonen/) · [linkedin.com](https://www.linkedin.com/in/eeroeero/)
+- **Hamza Tahir** (mentor, ✓ verified · ✓ intro available) — Co-founder & CTO of ZenML (Munich) — open-source, self-hostable MLOps with pipelines, model registry and staged promotion; the metadata layer stays put while data and compute remain on the customer's side. ZenML grew out of an ownership problem at a predictive-maintenance startup
+  - [zenml.io](https://www.zenml.io/company) · [zenml.io](https://www.zenml.io/author/hamza-tahir)
+- **Jim Dowling** (mentor, ✓ verified · ✓ intro available) — CEO & co-founder of Hopsworks (Stockholm) and Associate Professor at KTH; built an open-source platform with feature store, model registry and serving that enterprises run on-prem and air-gapped. Has already solved the packaging & support problem this venture will hit.
+  - [featurestoresummit.com](https://www.featurestoresummit.com/speaker/jim-dowling) · [hopsworks.ai](https://www.hopsworks.ai/product-capabilities/model-registry) · [github.com](https://github.com/jimdowling)
+- **Moses Guttmann** (mentor, ✓ verified · ✓ intro available) — CEO & co-founder of ClearML (ex-CTO Allegro.AI) — the reference implementation of this category: self-hosted experiment tracking, model registry and GPU orchestration including air-gapped, silicon-agnostic across NVIDIA/AMD/Intel. Frequent podcast guest, demonstrably accessible.
+  - [clear.ml](https://clear.ml/about-us) · [linkedin.com](https://www.linkedin.com/in/moses-guttmann-cml/)
+- **Maria Vechtomova** (mentor, ✓ verified · ✓ intro available) — MLOps Tech Lead at Ahold Delhaize (NL) and co-founder of Marvelous MLOps; owns the tracking → registry → promotion path across 19 retail brands and publishes opinionated public reviews of MLOps tooling. The archetypal evaluator — and a credible design partner.
+  - [databricks.com](https://www.databricks.com/dataaisummit/speaker/maria-vechtomova) · [youtube.com](https://www.youtube.com/watch?v=RKbMww5kxHE) · [linkedin.com](https://www.linkedin.com/in/maria-vechtomova/)
+- **Petr Baudiš** (mentor, ✓ verified · ✓ intro available) — Co-founder, CTO & Chief AI Architect at Rossum (Prague); runs the training/eval/deploy loop for a document-AI product at scale. Deep OSS credibility (early Git contributor, Pachi Go engine cited in the AlphaGo paper). Prague-local and technical to the core.
+  - [linkedin.com](https://www.linkedin.com/in/petr-baudis-906a213/) · [rossum.ai](https://rossum.ai/blog/founder-interview-with-chief-ai-architect-petr-baudis/)
+- **Štěpán Kopřiva** (mentor, ✓ verified · ✓ intro available) — CTO & co-founder of Blindspot AI (Prague, Adastra Group); 250+ delivered AI projects deploying ML inside industrial customers' own environments (Škoda Auto logistics, manufacturing). Exactly the 'model has to run inside the customer's plant' buyer.
+  - [blindspot.ai](https://blindspot.ai/who-we-are) · [adastracorp.com](https://adastracorp.com/podcast/tech-champions/stepan-kopriva-blindspot-solutions-when-a-person-reports-being-quarantined-in-the-morning-we-can-reschedule-shifts-in-seconds-thanks-to-artificial-intelligence/)
+- **Pavel Konečný** (mentor, ✓ verified · ✓ intro available) — Founder & CEO of Neuron Soundware (Prague); trains acoustic/vibration models centrally and deploys them onto nEdge devices on customers' factory floors — already runs a model registry plus fleet rollout across customer-owned hardware. The on-prem inference problem, lived.
+  - [neuronsw.com](https://www.neuronsw.com/about-us/) · [linkedin.com](https://www.linkedin.com/in/konecny-pavel/)
+- **Daniel Kvak** (mentor, ✓ verified · ✓ intro available) — CTO & co-founder of Carebot (Prague/Brno); chest X-ray AI running inside 500+ hospitals as a Class IIa MDR device — models on hospital hardware, data never leaves the site. Ships versioned, regulator-auditable model releases in the canonical BYO-hardware segment.
+  - [muni.cz](https://www.muni.cz/en/people/445232-daniel-kvak/cv) · [scholar.google.com](https://scholar.google.com/citations?hl=cs&user=8wZcmvUAAAAJ)
+- **Alexander Hagerf** (mentor, ✓ verified · ✓ intro available) — ML Engineering Lead at Emplifi (Prague); built the internal framework that deploys ML models as HTTP endpoints, stream consumers and Spark batch jobs. Previously GoodData and Jumpshot (Avast) — the exact practitioner who makes the build-vs-buy call on this product.
+  - [linkedin.com](https://www.linkedin.com/in/alexander-hagerf-5aa61b3/) · [theorg.com](https://theorg.com/org/emplifi/org-chart/alexander-hagerf)
 - **NVIDIA Inception** (network, ✓ verified) — Free, equity-free program for AI startups under 10 years old: SDK access, preferred hardware pricing, cloud credits and VC intros via Inception Capital Connect. Self-serve application — directly useful for a GPU-adjacent product.
   - [nvidia.com](https://www.nvidia.com/en-us/startups/)
 - **EuroHPC AI Factories** (network, ✓ verified) — EU network of 19 AI Factories and 13 Antennas — Czechia hosts one — giving startups and SMEs prioritised access to EuroHPC GPU supercomputers plus support services. Compute access and a natural source of design-partner deal flow.
@@ -240,17 +262,6 @@ _Intros are **earned** — you unlock contacts as your venture clears each stage
   - [eic.ec.europa.eu](https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en)
 
 ### 🔓 Earn introductions — unlock by progressing your venture
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently unknown).
 - 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently unknown).
 - 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently unknown).
 - 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently unknown).
