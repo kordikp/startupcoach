@@ -194,25 +194,32 @@ _Sources:_ [[28]](https://www.paloaltonetworks.com/company/press/2025/palo-alto-
 _Intros are **earned** — you unlock contacts as your venture clears each stage, so we only connect you when you're ready. Feedback above is always free._
 
 ### ✅ Available now
+- **Ondřej Vaněk** (mentor, ✓ verified · ✓ intro available) — Founder & CEO of Blindspot.ai (applied AI/ML — anomaly detection); PhD in multi-agent systems & security games from CTU.
+  - [blindspot.ai](https://blindspot.ai) · [linkedin.com](https://www.linkedin.com/in/ondrejvanek/)
+- **Michal Pěchouček** (mentor, ✓ verified · ✓ intro available) — Cybersecurity + AI expertise (ex-Avast/Gen Digital CTO, founder of Artificial Intelligence Center at CTU Prague); angel investor in AI startups.
+  - [cz.linkedin.com](https://cz.linkedin.com/in/pechoucek) · [aic.fel.cvut.cz](https://www.aic.fel.cvut.cz/)
 - **Kamil Malinka** (academia, ✓ verified) — Associate Professor and Head of IT Security Research Group (Security@FIT) at FIT VUT Brno; active in LLM security research (Red Hat partnership on manipulation detection), deepfake/biometric security, and formal security verification.
   - [fit.vut.cz](https://www.fit.vut.cz/research/group/security@fit/.en) · [linkedin.com](https://www.linkedin.com/in/kamil-malinka-098b302/)
+- **Martin Rehák** (mentor, ✓ verified · ✓ intro available) — Founder & CEO of Resistant AI (Prague), AI-powered fraud & financial crime detection platform; previously founded Cognitive Security (acquired by Cisco 2013).
+  - [resistant.ai](https://www.resistant.ai) · [cnaip.cz](https://www.cnaip.cz/cs/entity/resistant-ai)
+- **Ondřej Vlček** (mentor, ✓ verified · ✓ intro available) — CEO & Founder of Aisle, an AI-native cybersecurity platform for vulnerability detection and remediation; ex-CEO Avast/Gen Digital; deep expertise in adversarial AI systems and applied vulnerability research
+  - [linkedin.com](https://www.linkedin.com/in/ondrejvlcek/) · [aisle.com](https://aisle.com/) · [securityweek.com](https://www.securityweek.com/aisle-emerges-from-stealth-with-ai-based-reasoning-system-that-remediates-vulnerabilities-on-the-fly/)
 - **Miroslav Bureš** (academia, ✓ verified) — Head of STILL lab (System Testing IntelLigent Lab), Associate Professor at CTU FEE — leading research in automated model-based testing, formal verification, and safety-critical system reliability.
   - [fel.cvut.cz](https://fel.cvut.cz/en/faculty/people/939-miroslav-bures) · [linkedin.com](https://www.linkedin.com/in/miroslavbures/)
 - **Petr Švenda** (academia, ✓ verified) — Associate Professor at CRoCS (Centre for Research on Cryptography and Security), FI MU Brno — hands-on system security, smartcards, side-channels & applied cryptography. Strong node in the CZ security-research community.
   - [crocs.fi.muni.cz](https://crocs.fi.muni.cz/) · [scholar.google.com](https://scholar.google.com/citations?user=sAA8_ysAAAAJ&hl=en)
 - **Pavel Čeleda** (academia, ✓ verified) — Professor at FI MU Brno; co-founder & head of the Cybersecurity Laboratory (CSIRT-MU spin-off, KYPO cyber range). Network security, security testing/red-teaming methodology & cybersecurity training — closest MU group to Ondřej's security-testing angle.
   - [cybersec.fi.muni.cz](https://cybersec.fi.muni.cz/about-us) · [muni.cz](https://www.muni.cz/en/people/206086-pavel-celeda)
+- **Aisle** (company, ✓ verified · ✓ intro available) — AI-native cybersecurity startup automating vulnerability detection and remediation in enterprise software environments using ML-powered platform acceleration.
+  - [czechtradeoffices.com](https://www.czechtradeoffices.com/us/news/czech-millionaire-ondrej-vlcek-launches-new-global-cybersecurity-venture-aisle) · [cz.linkedin.com](https://cz.linkedin.com/in/ondrejvlcek)
+- **Resistant AI** (company, ✓ verified · ✓ intro available) — Prague-based AI fraud detection and financial crime prevention company ($67.9M funded) with enterprise security platform and EU regulatory expertise.
+  - [resistant.ai](https://www.resistant.ai)
+- **Blindspot AI** (company, ✓ verified · ✓ intro available) — Prague-based applied-AI security company specializing in anomaly detection, fraud detection, and video analytics for enterprise clients; design partner for understanding production AI security and regulatory compliance integration.
+  - [blindspot.ai](https://blindspot.ai)
 
 ### 🔓 Earn introductions — unlock by progressing your venture
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently done).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently done).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently done).
-- 🔒 **Domain mentor** (mentor) — Reach Customer Discovery (currently done).
 - 🔒 **Investor / high-profile** (angel) — Reach Value Prop & Business Model (currently unknown).
 - 🔒 **Investor / high-profile** (angel) — Reach Value Prop & Business Model (currently unknown).
-- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently done).
-- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently done).
-- 🔒 **Domain mentor** (company) — Reach Customer Discovery (currently done).
 - 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
 - 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
 - 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
