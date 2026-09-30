@@ -75,10 +75,10 @@ _Sources:_ [[25]](https://svuom.cz/index.php?lang=cz&zobraz=akrzk) [[26]](https:
 - Celý segment material informatics podle Tracxn: 33 firem, 17 financovaných, dohromady 133 mil. USD rizikového a private-equity kapitálu — tedy méně než jedno kolo Radical AI.
 - Citrine Informatics je nejdále (81,3 mil. USD celkem, Series C; poslední kolo 2,6 mil. USD v lednu 2025 — tedy zpomalení, ne akcelerace).
 - Naopak 'AI + robotická laboratoř' táhne: Radical AI 55 mil. USD seed (červenec 2025, RTX Ventures + NVentures), Periodic Labs 550,7 mil. USD celkem při valuaci >1,3 mld. USD (Series A, říjen 2025, s účastí Nvidia).
-- Thesis-fit investor pro povlaky je Emerald Technology Ventures (Zurich, 2000; >1 mld. EUR spravovaných aktiv, kanceláře Zurich/Toronto/Singapur), jejíž zaměření Materials & Packaging explicitně zahrnuje ochranné povlaky a nanostrukturované materiály; portfolio >90 firem z >25 000 posouzených dealů.
-- Lokální pre-seed je dostupný, ale nespecializovaný: Purple Ventures (Brno, pre-seed/seed, 100 tis.–1,5 mil. EUR, deeptech/hardware vedle softwaru) a Nation 1 VC (Praha, ~60 mil. USD ve dvou fondech, AI/healthtech/frontier tech).
+- Investor s tezí přímo na povlaky v Evropě existuje — zurišský fond s více než 1 mld. EUR spravovaných aktiv, jehož zaměření Materials & Packaging explicitně zahrnuje ochranné povlaky a nanostrukturované materiály, portfolio 90+ firem z 25 000+ posouzených dealů. Konkrétní jméno a kontakt jsou v sekci kontaktů (odemyká se s trakcí).
+- Lokální pre-seed je dostupný, ale nespecializovaný: dva české fondy dělají pre-seed a seed v rozmezí 100 tis.–1,5 mil. EUR včetně deeptech/hardware — relevantní teprve ve chvíli, kdy budeš mít data a design partnera. Také v sekci kontaktů.
 
-_Sources:_ [[29]](https://tracxn.com/d/trending-business-models/startups-in-material-informatics/__zCPscUCJyfvFdUzoLsSLt9w9uvOSQFw1pGrAY3Rw2NI) [[30]](https://emerald.vc/for-entrepreneurs/) [[31]](https://emerald.vc/portfolio) [[32]](https://www.vestbee.com/vc-list/purple-ventures) [[33]](https://startupintros.com/orgs/nation-1-vc)
+_Sources:_ [[29]](https://tracxn.com/d/trending-business-models/startups-in-material-informatics/__zCPscUCJyfvFdUzoLsSLt9w9uvOSQFw1pGrAY3Rw2NI)
 
 ## 🔗 Sources  ·  all links
 1. [businessresearchinsights.com](https://www.businessresearchinsights.com/market-reports/protective-marine-coatings-market-101594)
@@ -110,10 +110,6 @@ _Sources:_ [[29]](https://tracxn.com/d/trending-business-models/startups-in-mate
 27. [valencesurfacetech.com](https://www.valencesurfacetech.com/the-news/mil-prf-85285-type-1/)
 28. [chemsol.com](https://chemsol.com/wp-content/uploads/2013/09/MIL-PRF-85285E.pdf)
 29. [tracxn.com](https://tracxn.com/d/trending-business-models/startups-in-material-informatics/__zCPscUCJyfvFdUzoLsSLt9w9uvOSQFw1pGrAY3Rw2NI)
-30. [emerald.vc](https://emerald.vc/for-entrepreneurs/)
-31. [emerald.vc](https://emerald.vc/portfolio)
-32. [vestbee.com](https://www.vestbee.com/vc-list/purple-ventures)
-33. [startupintros.com](https://startupintros.com/orgs/nation-1-vc)
 
 ## 🤝 Recommended contacts
 
@@ -142,12 +138,13 @@ _Intros are **earned** — you unlock contacts as your venture clears each stage
   - [konferencepppu.cz](http://konferencepppu.cz/)
 - **ESA BIC Czech Republic** (network, ✓ verified) — Inkubátor ESA provozovaný CzechInvestem: 50 000 EUR nekapitálové podpory plus technický a business mentoring pro startupy přenášející vesmírné technologie. Povlaky pro letecký a vesmírný segment do scope zapadají.
   - [czechinvest.gov.cz](https://czechinvest.gov.cz/cz/Sluzby-pro-startupy/ESA-BIC-Czech-Republic) · [podporapodniku.gov.cz](https://podporapodniku.gov.cz/vesmir/16/esa-bic-czech-republic/)
+- **SVÚOM s.r.o.** (network, ✓ verified) — Akreditovaná zkušebna č. 1096 (ČIA, ČSN EN ISO/IEC 17025:2018) pro protikorozní ochranu: urychlené a cyklické zkoušky podle ISO 9227, PV 1210, VDA 621-415, SAE J 2334, ISO 11997-1 cyklus B i cyklické zkoušky pod UV. Tady leží data i akreditace, bez kterých predikce není použiteln
+  - [svuom.cz](https://www.svuom.cz/) · [svuom.cz](https://svuom.cz/index.php?lang=cz&zobraz=akrzk) · [svuom.cz](https://svuom.cz/index.php?lang=cz&zobraz=tnkorzk)
 
 ### 🔓 Earn introductions — unlock by progressing your venture
-- 🔒 **Domain mentor** (company) — Still analysing your repo — push an update to generate readiness.
-- 🔒 **Domain mentor** (company) — Still analysing your repo — push an update to generate readiness.
-- 🔒 **Domain mentor** (company) — Still analysing your repo — push an update to generate readiness.
-- 🔒 **Domain mentor** (company) — Still analysing your repo — push an update to generate readiness.
+- 🔒 **Investor / high-profile** (venture) — Still analysing your repo — push an update to generate readiness.
+- 🔒 **Investor / high-profile** (venture) — Still analysing your repo — push an update to generate readiness.
+- 🔒 **Investor / high-profile** (venture) — Still analysing your repo — push an update to generate readiness.
 
 ---
 _StartupCoach — an AI mentor for founders, built at **FIT CTU** (Czech Technical University), operated by **Pavel Kordík**._
