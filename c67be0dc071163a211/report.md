@@ -1,35 +1,35 @@
-# Prediktivní kvalifikace ochranných povlaků — AI zkracuje 7–15leté zkoušky stárnutí, degradace a ekologického dopadu u povlaků pro letectví a lodní dopravu
+# ChemistryAI — AI, která rozhoduje, jaký experiment spustit jako další v materiálovém výzkumu; cílem je zkrátit cestu od požadavku na materiál k validovanému materiálu s dostatkem důkazů, aby ho šlo nasadit
 
 **Founder:** @charbjak  ·  **Project:** startup — https://gitlab.fit.cvut.cz/charbjak/startup
 
-> Lze z krátkých zrychlených zkoušek a historických dat předpovědět výsledek několikaletého kvalifikačního programu podle konkrétní normy tak, aby predikce byla akceptovatelná jako podklad rozhodnutí?
+> Který vertikál × workflow × problém je ten správný první wedge — tedy kde lepší rozhodování o experimentech nezlepší R&D o 10–20 %, ale rozhodne o tom, jestli je program vůbec proveditelný?
 
-**Tags:** `deeptech`, `materials`, `coatings`, `aerospace`, `ai`
+**Tags:** `deeptech`, `materials`, `coatings`, `active-learning`, `ai`
 
 ## 📊 Market intelligence
 
-Trh, na který tato myšlenka míří, není 'AI navrhuje materiály', ale **kvalifikace** materiálu: než se nový povlak dostane na letadlo nebo trup lodi, musí projít několikaletým programem zkoušek stárnutí, degradace a korozní odolnosti. Ochranné a marine povlaky jsou samy o sobě trh ~22,4 mld. USD (2026) a letecké povlaky další ~1,2–3,9 mld. USD (odhady se mezi analytiky výrazně liší); zkoušení materiálů jako služba je ~3,9–6,6 mld. USD. Prodejné je zkrácení a zlevnění jednoho konkrétního kvalifikačního rozhodnutí, ne obecné hledání materiálů.
+Tvoje otázka není, jestli AI v materiálech funguje, ale kde začít. Trh, který odpovídá, není „materials informatics" obecně — je to kvalifikace: úplná empirická kvalifikace materiálu trvá 5 až 15 let, znamená tisíce zkoušek za miliony dolarů, a každá změna parametru může vynutit re-kvalifikaci. Ochranné a marine povlaky jsou samy o sobě trh ~22,4 mld. USD (2026), letecké povlaky dalších ~1,2–3,9 mld. USD a zkoušení materiálů ~3,9–6,6 mld. USD, ale prodejná jednotka je jedno kvalifikační rozhodnutí.
 
 **Why now:** Evropská regulace právě vynucuje přeformulování prakticky celého portfolia ochranných povlaků — a každé přeformulování znamená novou, několikaletou kvalifikaci. (1) PFAS: ECHA uzavřela finální konzultaci 25. 5. 2026, RAC vydal finální a SEAC návrh stanoviska podporující celoevropské omezení, žádost průmyslu vyjmout fluoropolymery SEAC nepřijal, vědecké hodnocení se má dokončit do konce 2026; návrh pokrývá >10 000 látek. (2) Cr(VI): chromáty pro aerospace/defence dostaly 12letou autorizaci, ale ECHA chystá široké omezení Cr(VI) s přijetím cca září 2026 / začátek 2027 — tedy tlak na chrome-free primery, u nichž dosud nikdo spolehlivě neprokázal stejnou korozní ochranu. Reformulační vlna + neměnně dlouhé zkoušky = poptávka po prediktivní kvalifikaci právě teď.
-**Positioning:** Ne 'materials discovery platforma' (tam už je Citrine, MaterialsZone, Polymerize, Osium AI, Radical AI), ale **prediktivní kvalifikace povlaků**: z krátkých zrychlených zkoušek a historických dat předpovědět výsledek dlouhého kvalifikačního programu pro konkrétní normu (ISO 9227, ISO 11997-1 cycle B, VDA 621-415, SAE J2334, MIL-PRF-85285). Hodnota není v přesnosti modelu, ale v tom, že predikce je **akceptovatelná jako podklad rozhodnutí** — tedy napojená na normy a na akreditovanou laboratoř (ISO/IEC 17025).
+**Positioning:** Ne platforma „AI for materials" (tam sedí Citrine, MaterialsZone, Polymerize, Osium AI, Radical AI), ale prediktivní kvalifikace: z krátkých zrychlených zkoušek a historických dat předpovědět výsledek dlouhého kvalifikačního programu pro konkrétní normu (ISO 9227, ISO 11997-1 cyklus B, VDA 621-415, SAE J 2334, MIL-PRF-85285). Vázaným zdrojem není model — je to hustá krátkodobá data spárovaná se známým dlouhodobým výsledkem.
 **Whitespace / wedge:** Publikované ML modely predikce životnosti povlaků existují (dvoustupňový model 'prostředí → fyzikální vlastnost → korozní porucha' v npj Materials Degradation 2025, CNN pro epoxidy v hlubokomořském prostředí s chybou 2,6 %, semi-supervised model atmosférického stárnutí akrylátů) — metoda tedy sama o sobě není obhajitelná výhoda. Nikdo z financovaných hráčů ale nevlastní **kvalifikační workflow pro letecké a marine povlaky**: materials-informatics platformy řeší formulaci, self-driving laby (Radical AI, Argonne Polybot) řeší syntézu a screening, zkušebny (Q-Lab, Element, SVÚOM) prodávají hodiny v komoře, ne rozhodnutí. Mezera je mezi nimi: data z komor + terénu → predikce → akceptovaná evidence.
 
 ### ✅ Strategic recommendations
-- Zvol JEDNO kvalifikační rozhodnutí, které chceš vytlačit — např. 'projde tento chrome-free primer 2000h ISO 9227 a cyklickou zkoušku?' — a měř se proti němu. 'Zrychlujeme vývoj materiálů' není prodejné tvrzení.
-- Data před cofounderem: bez označkovaných dat (zrychlené zkoušky spárované s terénní expozicí) není co trénovat. V ČR ta data fyzicky existují — Technopark Kralupy VŠCHT (~100 průmyslových kontraktů ročně) a akreditovaná zkušebna SVÚOM (zkušebna č. 1096, ISO/IEC 17025). Dohoda o datech je reálný moat, ne model.
-- Dva termíny v příštích šesti týdnech, kde je celá česká komunita povlaků pohromadě: konference Pigmenty a pojiva 4.–6. 11. 2026 (hotel Jezerka u Sečské přehrady) a 29. konference AKI 11.–13. 11. 2026 (Clarion, Ústí nad Labem) — letošní téma AKI je přímo 'silnostěnné organické povlaky'. Cíl: cofounder + 10 zákaznických rozhovorů do konce listopadu.
-- Why-now vyprávěj přes regulaci (PFAS + Cr(VI) reformulační vlna), ne přes 'AI umí navrhnout materiál za den'. Regulace je to, co rozpočet uvolňuje.
-- Coatings před bateriemi je správné rozhodnutí — u povlaků existuje opakovaná re-kvalifikace (u MIL-PRF-85285 probíhá periodické ověření ve dvouletých intervalech od původní kvalifikace), což je opakovaný příjem; u baterií je cyklus delší, kapitálově těžší a uzavřený na OEM.
-- Ověř ochotu platit číslem, ne názorem: zjisti u 5 formulátorů, kolik je dnes stojí jeden kvalifikační program (fakturace zkušebny + zdržení uvedení na trh v měsících).
-- Počítej s tím, že zákazník nemůže tvou predikci rychle ověřit (proto ten problém existuje) — potřebuješ retrospektivní validaci na historických datech, kde už je znám výsledek po 7–15 letech.
+- Test na třídění příležitostí: stojí špatná volba experimentu jeden kvalifikační cyklus, nebo pár týdnů laboratoře? Jen to první je kategorie „program by jinak nebyl proveditelný".
+- Dostupnost dat posuň z šesti kritérií na první filtr. Modely extrapolují v čase zhruba 20× a víc — 30 let provozu z jednoho až dvou let dat — ale jen při velkých krátkodobých datových sadách.
+- Tři kandidáti, kteří testem procházejí: kvalifikace chrome-free primerů (omezení Cr(VI) se přijímá kolem 9/2026–2027), přeformulování kvůli PFAS (>10 000 látek, fluoropolymery nevyjmuty), a substituce kritických surovin (z 47 strategických projektů CRMA jsou jen 2 substituční).
+- První dva kandidáti mají regulatorní termín, tedy rozpočet a datum. Třetí má politickou prioritu a Horizon Europe výzvy za 593 mil. EUR v programu 2026–2027, ale ne termín.
+- V rozhovorech se ptej na poslední re-kvalifikaci: co ji spustilo, jak dlouho trvala, co stála, co se kvůli ní nestihlo. Vrací datum a číslo místo názoru.
+- Data před produktem: Technopark Kralupy VŠCHT (urychlené korozní a klimatické zkoušky, ~100 průmyslových kontraktů ročně) a akreditovaná zkušebna SVÚOM (č. 1096) drží páry zrychlená zkouška / terénní expozice.
+- Vyber jeden vertikál na 30 dní a aktivně se ho snaž zabít. Tři paralelní hypotézy jsou v téhle fázi horší než jedna vyvrácená.
 
 ### ⚠️ Key risks
-- Akceptace, ne přesnost: predikce, která se nedá napojit na normu a akreditovanou zkušebnu, nemá v kvalifikaci hodnotu. Toto je hlavní riziko celého podnikání.
-- Přístup k datům: označkovaná data o stárnutí drží zkušebny a formulátoři a jsou důvěrná. Bez smluvního přístupu není produkt.
-- Metoda je publikovaná (npj Materials Degradation, Nature Sci. Rep., MDPI Polymers) → z modelu nevznikne IP výhoda; obhajitelné je jen data + workflow + certifikační vztahy.
-- Kapitálově silná konkurence s leteckým akcionářem: Radical AI má 55 mil. USD seed vedený RTX Ventures (RTX = letecký koncern) a NVentures.
-- Dlouhý prodejní cyklus v aerospace/defence a malý počet rozhodovatelů — trh je úzký a konzervativní; to je dobré pro moat a špatné pro rychlost učení.
-- Závislost na cofounderovi: bez materiálového chemika nebude tvrzení o degradaci důvěryhodné ani pro zákazníka, ani pro investora.
+- Akceptace, ne přesnost: predikce, která se nedá napojit na normu a akreditovanou zkušebnu, nemá v kvalifikaci hodnotu.
+- Přístup k datům je vázaný zdroj, ne model. Bez krátkodobých dat spárovaných se známým dlouhodobým výsledkem není co trénovat.
+- Metoda je publikovaná (npj Materials Degradation, Nature Sci. Rep.) → z modelu nevznikne IP výhoda; obhajitelné je data + workflow + certifikační vztahy.
+- Kapitálově silná konkurence s leteckým akcionářem: Radical AI má 55 mil. USD seed vedený RTX Ventures.
+- Šest kritérií bez termínu se snadno stane způsobem, jak nevybrat. Riziko je rozhodovací, ne technické.
+- Zákazník nemůže tvou predikci rychle ověřit — proto ten problém existuje. Potřebuješ retrospektivní validaci na datech, kde je výsledek po 7–15 letech už znám.
 
 ### Kolik je na trhu peněz — a kde z nich je adresovatelná část
 Povlaky samotné jsou velký a pomalu rostoucí trh; adresovatelná je ale jen ta část rozpočtu, která dnes odtéká do kvalifikačních zkoušek a do zdržení uvedení na trh. Analytické odhady se mezi sebou liší až trojnásobně, takže shora-dolů čísla používej jen jako kontext a rozhodnutí opři o bottom-up.
@@ -58,8 +58,11 @@ Dvě evropská regulační řízení nutí průmysl přeformulovat povlaky, u ni
 - Cr(VI): Evropská komise po přezkumu udělila 12letou autorizaci pro použití chromátů v aerospace a defence (v REACH komitétu s výrazně pozitivním hlasováním) — přitom stále platí, že u žádné alternativy nebyla spolehlivě prokázána stejná úroveň korozní ochrany jako u chromátových pigmentů.
 - Zároveň ECHA 29. 4. 2025 oznámila záměr navrhnout široké omezení látek s Cr(VI) podle REACH; přijetí omezení se očekává kolem září 2026, případně začátkem 2027. Kombinace 'autorizace na 12 let + chystané omezení' znamená, že kvalifikace chrome-free náhrad musí začít nyní.
 - Self-driving laby se posouvají z výzkumu do praxe (C&EN, červen 2026: 'self-driving labs are changing how chemists work') a zrychlené hodnocení koroze s vysokopropustnou charakterizací + AI predikcí je už samostatné téma v marine engineering (npj Materials Degradation, 2025).
+- Kvalifikace je sama o sobě úzké hrdlo: úplná empirická kvalifikace materiálu obvykle zabere 5 až 15 let, tisíce jednotlivých zkoušek a miliony dolarů, přičemž zpoždění mezi objevem materiálu a jeho kvalifikací se odhaduje asi na 30 let. Každá změna parametru nebo procesu může vynutit re-kvalifikaci.
+- Totéž zdrojové vlákno uvádí, že modely dokážou extrapolovat v čase zhruba 20× a víc — materiál na 30 let provozu by šlo kvalifikovat z jednoho až dvou let dat — ale výslovně jen při dostupnosti velkých krátkodobých datových sad.
+- Substituce je nejhůře obsazená noha Critical Raw Materials Act: z 47 strategických projektů vybraných Komisí jsou jen dva substituční. Horizon Europe k tomu v pracovním programu 2026–2027 otevírá výzvy za 593 mil. EUR.
 
-_Sources:_ [[17]](https://www.whitecase.com/insight-alert/europes-pfas-restriction-proposal-moving-forward) [[18]](https://echa.europa.eu/-/echa-announces-timeline-for-pfas-restriction-evaluation) [[19]](https://www.european-coatings.com/news/markets-companies/what-the-eus-pfas-restriction-means-for-coatings-and-paints/) [[20]](https://www.asd-europe.org/news-media/news-events/news/eu-grants-12-year-authorisation-for-chromates/) [[21]](https://www.sustainable-markets.com/echa-chromium-vi-restriction-proposal-what-manufacturers-should-know/) [[22]](https://www.iaeg.com/binaries/content/assets/iaeg/news/wg5-chromate-authorization-communication.pdf) [[23]](https://www.nature.com/articles/s41529-025-00663-x) [[24]](https://cen.acs.org/physical-chemistry/computational-chemistry/Self-driving-labs-changing-chemists/104/web/2026/06)
+_Sources:_ [[17]](https://www.whitecase.com/insight-alert/europes-pfas-restriction-proposal-moving-forward) [[18]](https://echa.europa.eu/-/echa-announces-timeline-for-pfas-restriction-evaluation) [[19]](https://www.european-coatings.com/news/markets-companies/what-the-eus-pfas-restriction-means-for-coatings-and-paints/) [[20]](https://www.asd-europe.org/news-media/news-events/news/eu-grants-12-year-authorisation-for-chromates/) [[21]](https://www.sustainable-markets.com/echa-chromium-vi-restriction-proposal-what-manufacturers-should-know/) [[22]](https://www.iaeg.com/binaries/content/assets/iaeg/news/wg5-chromate-authorization-communication.pdf) [[23]](https://www.nature.com/articles/s41529-025-00663-x) [[24]](https://cen.acs.org/physical-chemistry/computational-chemistry/Self-driving-labs-changing-chemists/104/web/2026/06) [[25]](https://www.cargroup.org/wp-content/uploads/2017/02/Material-Qualification.pdf) [[26]](https://insidemetaladditivemanufacturing.com/2024/05/20/qualification-and-certification-costs-contributing-factors-for-am-metal-aerospace-parts/) [[27]](https://ieu-monitoring.com/editorial/raw-materials-in-europe-eu-commission-selects-47-strategic-projects-to-diversify-access/551430)
 
 ### Normy, do kterých musí predikce zapadnout
 Kvalifikace je definovaná normami a akreditací. Predikce má hodnotu jen tehdy, když mluví jazykem konkrétní zkoušky a vychází z akreditovaného prostředí — to je zároveň nejtvrdší vstupní bariéra i budoucí moat.
@@ -68,7 +71,7 @@ Kvalifikace je definovaná normami a akreditací. Predikce má hodnotu jen tehdy
 - Kvalifikace není jednorázová: periodické ověřování certifikací probíhá ve dvouletých intervalech od data původní kvalifikace a iniciuje ho kvalifikující orgán — tj. existuje opakující se rozpočet, nikoli jen jednorázový projekt.
 - Zkoušky v MIL-PRF-85285 zahrnují adhezi (mřížkový řez + odtrh lepicí páskou), adhezi po expozici kapalinám a prostředí a odolnost proti nárazu — predikce musí mířit na tyto konkrétní přejímací veličiny, ne na abstraktní 'degradaci'.
 
-_Sources:_ [[25]](https://svuom.cz/index.php?lang=cz&zobraz=akrzk) [[26]](https://svuom.cz/index.php?lang=cz&zobraz=tnkorzk) [[27]](https://www.valencesurfacetech.com/the-news/mil-prf-85285-type-1/) [[28]](https://chemsol.com/wp-content/uploads/2013/09/MIL-PRF-85285E.pdf)
+_Sources:_ [[28]](https://svuom.cz/index.php?lang=cz&zobraz=akrzk) [[29]](https://svuom.cz/index.php?lang=cz&zobraz=tnkorzk) [[30]](https://www.valencesurfacetech.com/the-news/mil-prf-85285-type-1/) [[31]](https://chemsol.com/wp-content/uploads/2013/09/MIL-PRF-85285E.pdf)
 
 ### Kam tekly peníze a kdo je logický investor
 Čistá materials-informatics kategorie je financovaná skromně, zatímco 'AI + vlastní laboratoř' přitáhlo stovky milionů. Pro pre-seed z Prahy to znamená: buď služebně vedený, kapitálově štíhlý start (cesta Osium AI), nebo strategický partner s laboratoří a daty.
@@ -78,7 +81,7 @@ _Sources:_ [[25]](https://svuom.cz/index.php?lang=cz&zobraz=akrzk) [[26]](https:
 - Investor s tezí přímo na povlaky v Evropě existuje — zurišský fond s více než 1 mld. EUR spravovaných aktiv, jehož zaměření Materials & Packaging explicitně zahrnuje ochranné povlaky a nanostrukturované materiály, portfolio 90+ firem z 25 000+ posouzených dealů. Konkrétní jméno a kontakt jsou v sekci kontaktů (odemyká se s trakcí).
 - Lokální pre-seed je dostupný, ale nespecializovaný: dva české fondy dělají pre-seed a seed v rozmezí 100 tis.–1,5 mil. EUR včetně deeptech/hardware — relevantní teprve ve chvíli, kdy budeš mít data a design partnera. Také v sekci kontaktů.
 
-_Sources:_ [[29]](https://tracxn.com/d/trending-business-models/startups-in-material-informatics/__zCPscUCJyfvFdUzoLsSLt9w9uvOSQFw1pGrAY3Rw2NI)
+_Sources:_ [[32]](https://tracxn.com/d/trending-business-models/startups-in-material-informatics/__zCPscUCJyfvFdUzoLsSLt9w9uvOSQFw1pGrAY3Rw2NI)
 
 ## 🔗 Sources  ·  all links
 1. [businessresearchinsights.com](https://www.businessresearchinsights.com/market-reports/protective-marine-coatings-market-101594)
@@ -105,11 +108,14 @@ _Sources:_ [[29]](https://tracxn.com/d/trending-business-models/startups-in-mate
 22. [iaeg.com](https://www.iaeg.com/binaries/content/assets/iaeg/news/wg5-chromate-authorization-communication.pdf)
 23. [nature.com](https://www.nature.com/articles/s41529-025-00663-x)
 24. [cen.acs.org](https://cen.acs.org/physical-chemistry/computational-chemistry/Self-driving-labs-changing-chemists/104/web/2026/06)
-25. [svuom.cz](https://svuom.cz/index.php?lang=cz&zobraz=akrzk)
-26. [svuom.cz](https://svuom.cz/index.php?lang=cz&zobraz=tnkorzk)
-27. [valencesurfacetech.com](https://www.valencesurfacetech.com/the-news/mil-prf-85285-type-1/)
-28. [chemsol.com](https://chemsol.com/wp-content/uploads/2013/09/MIL-PRF-85285E.pdf)
-29. [tracxn.com](https://tracxn.com/d/trending-business-models/startups-in-material-informatics/__zCPscUCJyfvFdUzoLsSLt9w9uvOSQFw1pGrAY3Rw2NI)
+25. [cargroup.org](https://www.cargroup.org/wp-content/uploads/2017/02/Material-Qualification.pdf)
+26. [insidemetaladditivemanufacturing.com](https://insidemetaladditivemanufacturing.com/2024/05/20/qualification-and-certification-costs-contributing-factors-for-am-metal-aerospace-parts/)
+27. [ieu-monitoring.com](https://ieu-monitoring.com/editorial/raw-materials-in-europe-eu-commission-selects-47-strategic-projects-to-diversify-access/551430)
+28. [svuom.cz](https://svuom.cz/index.php?lang=cz&zobraz=akrzk)
+29. [svuom.cz](https://svuom.cz/index.php?lang=cz&zobraz=tnkorzk)
+30. [valencesurfacetech.com](https://www.valencesurfacetech.com/the-news/mil-prf-85285-type-1/)
+31. [chemsol.com](https://chemsol.com/wp-content/uploads/2013/09/MIL-PRF-85285E.pdf)
+32. [tracxn.com](https://tracxn.com/d/trending-business-models/startups-in-material-informatics/__zCPscUCJyfvFdUzoLsSLt9w9uvOSQFw1pGrAY3Rw2NI)
 
 ## 🤝 Recommended contacts
 
@@ -142,9 +148,9 @@ _Intros are **earned** — you unlock contacts as your venture clears each stage
   - [svuom.cz](https://www.svuom.cz/) · [svuom.cz](https://svuom.cz/index.php?lang=cz&zobraz=akrzk) · [svuom.cz](https://svuom.cz/index.php?lang=cz&zobraz=tnkorzk)
 
 ### 🔓 Earn introductions — unlock by progressing your venture
-- 🔒 **Investor / high-profile** (venture) — Still analysing your repo — push an update to generate readiness.
-- 🔒 **Investor / high-profile** (venture) — Still analysing your repo — push an update to generate readiness.
-- 🔒 **Investor / high-profile** (venture) — Still analysing your repo — push an update to generate readiness.
+- 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
+- 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
+- 🔒 **Investor / high-profile** (venture) — Reach Value Prop & Business Model (currently unknown).
 
 ---
 _StartupCoach — an AI mentor for founders, built at **FIT CTU** (Czech Technical University), operated by **Pavel Kordík**._
