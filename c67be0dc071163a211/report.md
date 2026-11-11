@@ -112,7 +112,7 @@ V říjnu jsem po tobě chtěl roli kupujícího. Tady je, jak to vypadá z veř
 - Vlastník konstrukce nebo letecký výrobce — kupující produktu B. Rozhoduje o nasazení systému a nese následky. Chce důkaz o provozu, ne o zkoušce, a predikci přijme jen ve formě, kterou podepíše jeho oddělení kvality.
 - Zkušebna — kanál, ne zákazník. Má komory, data i zákazníky obou typů. Predikce jako doplněk ke zkoušce („po šesti týdnech vám řekneme, kam to míří“) je služba, kterou může prodávat pod svou akreditací.
 - V Česku jsou dvě místa, kde se potkává všechno najednou: Technopark Kralupy VŠCHT a SVÚOM. Obě máš mezi otevřenými kontakty.
-- Konference AKI (11.–13. 11. 2026, Ústí nad Labem) má letos téma silnostěnné organické povlaky — tedy přesně systémy, které se kvalifikují podle ISO 12944.
+- Konference AKI (11.–13. 11. 2026, hotel Clarion, Ústí nad Labem) je česká oborová konference o korozi a protikorozní ochraně. Lidé, kteří cyklické zkoušky zadávají i provádějí, jsou tento týden na jednom místě.
 - Co veřejné zdroje neřeknou: kolik výrobců v Česku a v EU cyklické zkoušky vůbec zadává, jak často, a kdo je platí. Tři rozhovory to změní z odhadu na číslo.
 
 _Sources:_ [[20]](https://www.technopark-kralupy.cz/sluzby) [[19]](https://svuom.cz/index.php?lang=cz&zobraz=akrzk) [[22]](https://www.aki-koroze.cz/konference.php) [[2]](https://www.icorr.org/iso-12944-9-defining-laboratory-test-methods-for-offshore-and-related-structures/)
